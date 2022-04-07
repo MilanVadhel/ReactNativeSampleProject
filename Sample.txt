@@ -1,2 +1,4 @@
 Sample Text File
 Added New Line
+
+Added New Line From Local
